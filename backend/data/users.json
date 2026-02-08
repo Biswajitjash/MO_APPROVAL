@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "userId": "AMPLCONS",
+      "password": "$2b$10$tuswb1aIhbnU8a4fYB.p8eg/OBA7fhms1e56.Saw0odjB/86suz6u",
+      "name": "Administrator",
+      "email": "admin@ampl.in",
+      "role": "admin",
+      "plant": "*",
+      "active": true,
+      "createdAt": "2026-02-06T05:55:55.704Z",
+      "lastLogin": null
+    },
+    {
+      "userId": "SUPPORTPM",
+      "password": "$2b$10$wEQf5QIyMC8.PZZqEjUkaOUGneo0YYKCbrllcCMfivaG/PVGrwy7S",
+      "name": "Support User",
+      "email": "support@ampl.in",
+      "role": "admin",
+      "plant": "*",
+      "active": true,
+      "createdAt": "2026-02-06T05:55:55.916Z",
+      "lastLogin": null
+    },
+    {
+      "userId": "AMPLCONS1",
+      "password": "$2b$10$rc4NAZ31/dMXO8EzluORUuwO4NdjWBaegzbhSReV5aHxUnK//Y8pK",
+      "name": "Biswajit Jash",
+      "email": "sap.development@ampl.in",
+      "role": "admin",
+      "plant": "*",
+      "active": true,
+      "createdAt": "2026-02-06T05:55:56.016Z",
+      "lastLogin": "2026-02-06T14:50:49.896Z"
+    },
+    {
+      "userId": "AMPLPM",
+      "password": "$2b$10$BE0hy9Q0a621/BMj.aFM1OtCcKRKNoTbxpjzmcZeMUQI4Kw0XZCvS",
+      "name": "Subrata Banerjee",
+      "email": "mis.manager@equipcare.in",
+      "role": "admin",
+      "plant": "ALL",
+      "active": true,
+      "createdAt": "2026-02-06T10:34:57.566Z",
+      "lastLogin": "2026-02-08T15:25:17.987Z"
+    }
+  ],
+  "lastUpdated": "2026-02-08T15:25:17.987Z"
+}
